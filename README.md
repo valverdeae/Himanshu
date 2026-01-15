@@ -29,9 +29,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarcastic-GOD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valverdeae&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sarcastic-GOD&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vavlerdeae&theme=tokyonight&hide_border=false)
 
 ---
 
