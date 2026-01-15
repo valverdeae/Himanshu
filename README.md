@@ -6,7 +6,6 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ohbexo)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/+e3-eAje291cxNGNl)
 
 ---
@@ -25,13 +24,6 @@
 - 💻 Developer who learns by building and breaking things
 - 🧪 This repository is my coding playground
 - 🚀 Focused on growth, clean code, and experimentation
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valverdeae&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vavlerdeae&theme=tokyonight&hide_border=false)
 
 ---
 
